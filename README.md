@@ -21,7 +21,7 @@
   <details open="open">
   <summary>Índice</summary>
   <ol>
-    <li><a href="https://github.com/nicolastelles/AnaliseCAGED#sobre-o-projeto-blue_bookbooks">Sobre o projeto</a></li>
+    <li><a href="https://github.com/nicolastelles/AnaliseCAGED#sobre-o-projeto-blue_bookbooks">Sobre o projeto</a></li>  
   </ol>
 </details>
   
@@ -50,3 +50,15 @@ Esse projeto tem como objetivo para analisar dados do CAGED pela disciplina de  
     
 
 ## 5 - Quero poder visualizar as causas de demissão formalizadas pelos empregadores distribuídas por sexo, raça/cor e faixa etária
+
+
+## Grupo responsável pela análise realizada :computer: :bar_chart::
+
+Nome          | Github
+ ------------ | -------------
+Carolina Margiotti de Abreu | [Acessar Github](https://github.com/CarolinaMargiotti)
+Gabriel Ferreira Fabian | [Acessar Github](https://github.com/gabriel-fabian)
+Joao Vitor de Paula Rodrigues Machado | [Acessar Github](https://github.com/Joaoom9596)
+Lucas Vinicius dos Santos Almeida| [Acessar Github](https://github.com/lucasvns)
+Nicolas Soares Telles | [Acessar Github](https://github.com/nicolastelles)
+Victor Gabriel Andrade de Melo | [Acessar Github](https://github.com/VGabrielMelo)
